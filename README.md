@@ -4,3 +4,7 @@ Pengalaman Belajar di Dicoding
 * Belajar kebutuhan syarat pembuatan aplikasi.
 * Belajar tentang pembuatan persyaratan kebutuhan aplikasi, cara aplikasi bekerja, dan diagram alur.
 * Belajar bahasa pemrograman JavaScript.
+
+09 Februari 2026 Belajar Dasar Pemrograman untuk Aplikasi. (Progres 100%)
+* Belajar bahasa HTML
+* Belajar teori pengarsipan perangkat lunak
